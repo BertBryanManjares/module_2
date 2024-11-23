@@ -1,0 +1,7 @@
+C:\Users\bertb\source\repos\module2\module2\bin\Debug\module2.exe.config
+C:\Users\bertb\source\repos\module2\module2\bin\Debug\module2.exe
+C:\Users\bertb\source\repos\module2\module2\bin\Debug\module2.pdb
+C:\Users\bertb\source\repos\module2\module2\obj\Debug\module2.csproj.AssemblyReference.cache
+C:\Users\bertb\source\repos\module2\module2\obj\Debug\module2.csproj.CoreCompileInputs.cache
+C:\Users\bertb\source\repos\module2\module2\obj\Debug\module2.exe
+C:\Users\bertb\source\repos\module2\module2\obj\Debug\module2.pdb
